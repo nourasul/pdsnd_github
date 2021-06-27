@@ -9,11 +9,12 @@ README file created on the 27th of June
 Bikeshare 
 
 ### Description
-Describe what your project is about and what it does
 This system develpoed using python, which explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
  I wrote a code that import the data and ask useres to answer interesting questions about it by computing descriptive statistics, I also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
