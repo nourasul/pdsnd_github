@@ -2,13 +2,16 @@
 
 ### Date created
 Include the date you created this project and README file.
+This project created on the 5th of June 
+README file created on the 27th of June
 
 ### Project Title
-Replace the Project Title
+Bikeshare 
 
 ### Description
 Describe what your project is about and what it does
-
+This system develpoed using python, which explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+ I wrote a code that import the data and ask useres to answer interesting questions about it by computing descriptive statistics, I also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 ### Files used
 Include the files used
 
